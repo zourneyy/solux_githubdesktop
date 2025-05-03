@@ -1,3 +1,9 @@
 제 이름은 황지현입니다
 Hello World!		// branch_2의 변경사항입니다.
+<<<<<<< Updated upstream
 Hi~~ //branch_2의 2번째 변경사항입니다.
+=======
+Hello!		// branch_1의 변경사항입니다..
+Hi~~ //branch_2의 2번째 변경사항입니다.
+main 브랜치의 첫 번째 커밋
+>>>>>>> Stashed changes
